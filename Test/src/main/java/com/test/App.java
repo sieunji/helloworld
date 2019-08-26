@@ -18,16 +18,6 @@ public class App
         System.out.println( "Hello eunji!" ); 
         System.out.println( "Hello eunji!" ); 
 
-
-        System.out.println( "Hello JIYOON!" ); 
-        System.out.println( "Hello JIYOON!" ); 
-        System.out.println( "Hello JIYOON!" ); 
-        System.out.println( "Hello JIYOON" ); 
-        
-        System.out.println( "I'M HANGRY" ); 
-        System.out.println( "I'M HANGRY" ); 
-        System.out.println( "I'M HANGRY" ); 
-        System.out.println( "I'M HANGRY" ); 
       
         
     }
